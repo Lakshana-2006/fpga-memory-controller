@@ -38,7 +38,7 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 💻 RTL Code
 
-Location: `rtl/memory_controller_8x8.v`
+Location: `rtl/memory_controller.v`
 
 ---
 
