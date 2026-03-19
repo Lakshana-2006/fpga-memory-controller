@@ -38,13 +38,13 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 💻 RTL Code
 
-Location: ![RTL Code].(rtl/memory_controller.v)
+![RTL Code].()
 
 ---
 
 ## 🧪 Testbench
 
-Location: ![Testbench].()
+![Testbench].()
 
 ---
 
