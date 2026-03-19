@@ -38,7 +38,7 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 💻 RTL Code
 
-[RTL Code]()
+[RTL Code](https://github.com/Lakshana-2006/fpga-memory-controller/blob/86dfc38d8086bae739d56c6f1a1812460f5b1e8b/rtl/memory_controller.v)
 
 ---
 
