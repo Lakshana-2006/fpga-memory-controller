@@ -38,13 +38,13 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 💻 RTL Code
 
-![RTL Code].()
+![RTL Code]()
 
 ---
 
 ## 🧪 Testbench
 
-![Testbench].()
+![Testbench](https://github.com/Lakshana-2006/fpga-memory-controller/blob/fa0f19c6616b58012d81d56e3144dfa827e8923f/testbench/testbench/memory_controller_tb.v)
 
 ---
 
