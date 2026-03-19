@@ -56,7 +56,7 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 🔧 FPGA Implementation
 
-![FPGA Output](https://github.com/Lakshana-2006/fpga-memory-controller/blob/50b1903ceb0902980733243b98fe0f0a85aacab4/memory_controller%20(1).mp4)
+[FPGA Output](https://github.com/Lakshana-2006/fpga-memory-controller/blob/50b1903ceb0902980733243b98fe0f0a85aacab4/memory_controller%20(1).mp4)
 
 ---
 
