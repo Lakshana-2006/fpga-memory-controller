@@ -32,7 +32,7 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 🧠 Block Diagram
 
-![Block Diagram](docs/block_diagram.png)
+![Block Diagram](https://github.com/Lakshana-2006/fpga-memory-controller/blob/d655ddf6295f53911917d0ef3844e14e3d0001ae/memory_controller_block_diagram.png)
 
 ---
 
