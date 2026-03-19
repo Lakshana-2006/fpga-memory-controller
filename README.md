@@ -50,7 +50,7 @@ The design is verified through simulation using a testbench, making it suitable 
 
 ## 📊 Simulation Output
 
-![Simulation Waveform](simulation/waveform.png)
+![Simulation Waveform](https://github.com/Lakshana-2006/fpga-memory-controller/blob/b288f916df6ab102f9a0c37762153e9ba396dc4d/stimulation.png)
 
 ---
 
